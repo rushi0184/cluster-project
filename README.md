@@ -1,2 +1,2 @@
 # cluster-project
-cluster with terraform
+cluster using terraform
